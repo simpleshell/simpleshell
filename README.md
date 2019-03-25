@@ -7,6 +7,11 @@ Development is still in its infancy and progress updates will be made on a regul
 # Status
 :heavy_check_mark: Taskbar
 
-:x: System tray
+:x: System tray (In progress)
 
 ![SimpleShell in action](https://i.imgur.com/NUIEDRI.png)
+
+# FAQ
+
+Will the Start Menu be added in future?
+> No.
