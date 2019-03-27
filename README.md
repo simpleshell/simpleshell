@@ -9,7 +9,7 @@ Development is still in its infancy and progress updates will be made on a regul
 
 :x: System tray (In progress)
 
-![SimpleShell in action](https://i.imgur.com/NUIEDRI.png)
+![image](https://user-images.githubusercontent.com/48914594/55080182-a56c3180-50d8-11e9-801d-9f1cd8f0f8ce.png)
 
 # Requirements
 To work correctly, you will first need
