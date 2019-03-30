@@ -9,7 +9,7 @@ Development is still in its infancy and progress updates will be made on a regul
 
 :x: System tray (In progress)
 
-![image](https://user-images.githubusercontent.com/48914594/55080182-a56c3180-50d8-11e9-801d-9f1cd8f0f8ce.png)
+![image](https://user-images.githubusercontent.com/48914594/55279187-b0c99200-5350-11e9-9aac-8dd64be1899d.png)
 
 # Requirements
 To work correctly, you will first need
